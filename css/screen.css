@@ -18,8 +18,10 @@ input{
 button {
 	 padding: 15px 20px;
 	 background-color: fb4747;
-	 margin: auto;
-	 width: 100%;
+	 margin: 20px 0;
+	 box-sizing: border-box;
+	 display: block;
+	 width: auto;
 }	
 
 	
