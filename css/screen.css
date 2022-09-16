@@ -1,10 +1,18 @@
 body {
+	font-family: Arial, Helvetica;
 	background-color: #a3a3a3;
 	font-size: 20px;
 }
 form {
 	margin: auto;
-	padding-top: 45px;
+	border: 3px solid;
+}
+.formcontainer {
+	padding: 20px;
+}
+input{
+	box-sizing: border-box;
+}
 	
 label {
 	display: block;
